@@ -1,0 +1,142 @@
+[
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "learning_rate": 0.0001,
+    "accuracy": 0.57
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.01,
+    "learning_rate": 0.0001,
+    "accuracy": 0.635
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.03,
+    "learning_rate": 0.0001,
+    "accuracy": 0.69
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.05,
+    "learning_rate": 0.0001,
+    "accuracy": 0.645
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "learning_rate": 0.0002,
+    "accuracy": 0.635
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.01,
+    "learning_rate": 0.0002,
+    "accuracy": 0.63
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.03,
+    "learning_rate": 0.0002,
+    "accuracy": 0.64
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.05,
+    "learning_rate": 0.0002,
+    "accuracy": 0.685
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "learning_rate": 0.0003,
+    "accuracy": 0.61
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.01,
+    "learning_rate": 0.0003,
+    "accuracy": 0.675
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.03,
+    "learning_rate": 0.0003,
+    "accuracy": 0.66
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.05,
+    "learning_rate": 0.0003,
+    "accuracy": 0.67
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "learning_rate": 0.0005,
+    "accuracy": 0.675
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.01,
+    "learning_rate": 0.0005,
+    "accuracy": 0.705
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.03,
+    "learning_rate": 0.0005,
+    "accuracy": 0.71
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.05,
+    "learning_rate": 0.0005,
+    "accuracy": 0.685
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "learning_rate": 0.0007,
+    "accuracy": 0.625
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.01,
+    "learning_rate": 0.0007,
+    "accuracy": 0.69
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.03,
+    "learning_rate": 0.0007,
+    "accuracy": 0.705
+  },
+  {
+    "lr_scheduler_type": "cosine_with_restarts",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.05,
+    "learning_rate": 0.0007,
+    "accuracy": 0.7
+  }
+]
